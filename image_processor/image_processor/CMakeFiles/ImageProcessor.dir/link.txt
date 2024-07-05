@@ -1,0 +1,2 @@
+/usr/bin/ar qc libImageProcessor.a CMakeFiles/ImageProcessor.dir/image_processor.cpp.o CMakeFiles/ImageProcessor.dir/detection_engine.cpp.o CMakeFiles/ImageProcessor.dir/feature_engine.cpp.o CMakeFiles/ImageProcessor.dir/tracker_deepsort.cpp.o
+/usr/bin/ranlib libImageProcessor.a
